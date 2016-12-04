@@ -1,2 +1,1 @@
-# alexmo-dete
-just a dete
+＃alexmo-DETE ^ hhelloamalex
